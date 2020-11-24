@@ -1,2 +1,2 @@
-# my-site
+# ssite
 This is website of junior programmer
